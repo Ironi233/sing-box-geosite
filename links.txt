@@ -6,6 +6,7 @@ https://ruleset.skk.moe/List/ip/reject.conf
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Providers/ChinaDomain.yaml
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Ruleset/Steam.list
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OneDrive.list
